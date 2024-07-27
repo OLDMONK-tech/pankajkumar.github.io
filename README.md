@@ -45,3 +45,4 @@ Cashier and key holder (Beer Store)
 33. Switching, Routing, and Wireless Essentials (Cisco Networking Academy)
 
 ### Skills
+Networking | Data Visualization | Teamwork
