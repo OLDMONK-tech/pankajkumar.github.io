@@ -10,12 +10,12 @@ Security Guard (Xpera Risk and Mitigation)
 Cashier and key holder (Beer Store)
 
 ### Courses & Certifications
-1. Assets, Threats, and Vulnerabilities (Google)
-2. Automate Cybersecurity Tasks with Python (Google)
-3. Connect and Protect: Networks and Network Security (Google)
-4. Endpoint Security (Cisco)
-5. Foundations of Cybersecurity (Google)
-6. Google Cybersecurity Specialization (Google)
+1. Assets, Threats, and Vulnerabilities (Google) https://oldmonk-tech.github.io/portfolio.github.io/ 
+2. Automate Cybersecurity Tasks with Python (Google) https://oldmonk-tech.github.io/portfolio.github.io/
+3. Connect and Protect: Networks and Network Security (Google) https://oldmonk-tech.github.io/portfolio.github.io/
+4. Endpoint Security (Cisco) https://www.credly.com/badges/fdd70d2d-fcc6-4da6-ad99-583bbe8f4f8d/linked_in_profile
+5. Foundations of Cybersecurity (Google) https://www.coursera.org/account/accomplishments/verify/LUESS582NHDE
+6. Google Cybersecurity Specialization (Google) https://www.coursera.org/account/accomplishments/specialization/JF27KCXZWG7J
 7. Introduction to Cybersecurity (Cisco)
 8. Networking Basics (Cisco)
 9. Networking Devices and Initial Configuration (Cisco)
